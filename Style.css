@@ -1,0 +1,135 @@
+.caja1
+{
+    background-color: red;
+    width: 200px; height: 200px;
+    position: relative;
+    top: 150px;
+    left: 250px;
+}
+.caja1-1
+{
+    background-color: blue;
+    width: 50px; height: 50px;
+    position: absolute;
+    top: 30px; left: 30px;
+}
+.caja1-2
+{
+    background-color: blue;
+    width: 50px; height: 50px;
+    position: absolute;
+    top: 30px; right: 30px;
+}
+.caja1-3
+{
+    background-color: black;
+    width: 150px; height: 30px;
+    position: absolute;
+    bottom: 30px; left: 30px;
+}
+.caja1-4
+{
+    background-color: black;
+    width: 20px; height: 20px;
+    position: absolute;
+    top: 45px; left: 45px;
+}
+.caja1-5
+{
+    background-color: black;
+    width: 20px; height: 20px;
+    position: absolute;
+    top: 45px; right: 45px;
+}
+.caja2
+{
+    background-color: red;
+    width: 60px; height: 60px;
+    position: relative;
+    top: 130px;
+    left: 310px;
+}
+.caja3
+{
+    background-color: brown;
+    width: 230px; height: 230px;
+    position: relative;
+    top: 120px;
+    left: 220px;
+}
+.caja3-1
+{
+    background-color: white;
+    width: 70px; height: 120px;
+    position: absolute;
+    top: 50px; left: 20px;
+}
+.caja3-2
+{
+    background-color: silver;
+    width: 70px; height: 120px;
+    position: absolute;
+    top: 50px; left: 80px;
+}
+.caja3-3
+{
+    background-color: skyblue;
+    width: 70px; height: 120px;
+    position: absolute;
+    top: 50px; left: 150px;
+}
+.caja4
+{
+    background-color: black;
+    width: 30px; height: 150px;
+    position: fixed;
+    top: 400px;
+    left: 160px;
+    transform: rotate(30deg);
+}
+.caja5
+{
+    background-color: black;
+    width: 30px; height: 150px;
+    position: fixed;
+    top: 400px;
+    left: 490px;
+    transform: rotate(150deg);
+}
+.caja6
+{
+    background-color: black;
+    width: 40px; height: 80px;
+    position: fixed;
+    top: 615px;
+    left: 260px;
+}
+.caja7
+{
+    background-color: black;
+    width: 40px; height: 80px;
+    position: fixed;
+    top: 615px;
+    left: 400px;
+}
+.caja8
+{
+    background-color: black;
+    width: 40px; height: 80px;
+    position: fixed;
+    top: 170px;
+    left: 450px;
+}
+.caja9
+{
+    background-color: black;
+    width: 40px; height: 80px;
+    position: fixed;
+    top: 170px;
+    left: 220px;
+}
+
+
+
+
+
